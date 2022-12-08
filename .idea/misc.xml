@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/drawable/ic_attachment.xml" value="0.2595" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/drawable/ic_camera.xml" value="0.2595" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/drawable/sentmsgdraw.xml" value="0.2595" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/drawable/textbox_outline.xml" value="0.246" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_otp.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_phonenumber.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_set_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/activity_set_profilee.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/item_receive.xml" value="0.24010416666666667" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/item_sent.xml" value="0.176" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/item_status.xml" value="0.19427083333333334" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/msgrecive.xml" value="0.6" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/msgsent.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/layout/row_convers.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/AndroidStudioProjects/whatschat/app/src/main/res/menu/topmenu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siri/Desktop/9.8.22/whatschat/app/src/main/res/layout/activity_chat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siri/Desktop/9.8.22/whatschat/app/src/main/res/layout/item_receive.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/siri/Desktop/9.8.22/whatschat/app/src/main/res/layout/item_sent.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/siri/Desktop/9.8.22/whatschat/app/src/main/res/layout/row_convers.xml" value="0.20969202898550723" />
+        <entry key="..\:/android proj/9.8.22/whatschat/app/src/main/res/drawable/sentmsgdraw.xml" value="0.1235" />
+        <entry key="..\:/android proj/9.8.22/whatschat/app/src/main/res/layout/item_receive.xml" value="0.1125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
